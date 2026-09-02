@@ -1,7 +1,7 @@
 # 🐳 Docker — Application Deployment
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/docker-library/docs/master/_config/logo.png" width="110" alt="Docker Logo"/>
+  <img src="https://github.com/user-attachments/assets/e5ef6983-63a9-4026-b50c-8bf4ee503785" width="110" alt="Docker Logo"/>
 </p>
 
 <h1 align="center">🚀 Application Deployment Using Docker</h1>
