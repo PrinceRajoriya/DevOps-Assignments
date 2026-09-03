@@ -460,7 +460,7 @@ docker compose down
 > **Docker packages an application and its dependencies into a container, making deployment consistent, portable, repeatable, and easier to automate.**
 
 <p align="center">
-  🐳 <b>Learn Docker → Build → Containerize → Deploy → Automate</b> 🚀
+  🐳 <b>Learn Docker → Build → Containerize → Deploy → Automate</b> 
 </p>
 
 <p align="center">
