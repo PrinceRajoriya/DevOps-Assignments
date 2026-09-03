@@ -180,8 +180,6 @@ CMD ["npm", "start"]
 docker build -t my-app:1.0 .
 ```
 
----
-
 # 5️⃣ Application Deployment 🚀
 
 Run the application:
