@@ -364,7 +364,7 @@ Common tools:
 
 # 🔐 Security Basics
 
-* Use trusted images
+* Use trusted images.
 * Keep images updated
 * Avoid unnecessary root privileges
 * Never hard-code passwords/API keys
